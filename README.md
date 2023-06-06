@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ordeyn
 - 👀 I’m interested in data science and data/info viz.
-- 🌱 I’m currently learning about Web Development at my new job.
+- 🌱 I’m currently learning about machine learning.
 - 📫 How to reach me: caroline.nurkkala@gmail.com
 
 <!---
